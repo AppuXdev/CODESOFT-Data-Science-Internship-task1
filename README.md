@@ -11,3 +11,7 @@ pandas, numpy, scikit-learn
 1. Download `Titanic_Survival_Prediction.ipynb` and `Titanic-Dataset.csv`
 2. Open notebook in Jupyter
 3. Run all cells
+### Files in this repository
+1. `Titanic_Survival_Prediction.ipynb` - Jupyter notebook with outputs & analysis
+2. `Titanic_Survival_Prediction.py` - Clean Python script version  
+3. `Titanic-Dataset.csv` - Dataset used
