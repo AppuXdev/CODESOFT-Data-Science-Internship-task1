@@ -13,5 +13,5 @@ pandas, numpy, scikit-learn
 3. Run all cells
 ### Files in this repository
 1. `Titanic_Survival_Prediction.ipynb` - Jupyter notebook with outputs & analysis
-2. `Titanic_Survival_Prediction.py` - Clean Python script version  
+2. `titanic_dataset.py` - Clean Python script version  
 3. `Titanic-Dataset.csv` - Dataset used
